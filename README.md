@@ -15,7 +15,7 @@ pip3 install jupyter
 ```
 into your terminal. Once that is install, simple type in
 ```bash
-jupyter-notebook Predict.ipynb.ipynb
+jupyter-notebook Predict.ipynb
 ```
 to launch the notebook.
 
