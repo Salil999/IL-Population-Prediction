@@ -1,5 +1,5 @@
 # IL Population Prediction
-Population prediction based on historical data given for Illinois and its various cities. Historical data was from 1991 to 2009. Done as a side project by two students interested in data science.
+Population prediction based on historical data given for Illinois and its various cities. Historical data was from 1991 to 2009. Done as a side project by me to show interest in data science.
 
 ## Dependencies
 - numpy
